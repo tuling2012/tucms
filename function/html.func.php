@@ -1,6 +1,14 @@
 ﻿<?php
+	
+	/**
+ * 静态化
+ *
+ * @package htmlfunction
+ * @author  Mr Yang
+ */
 
-    class htmlInit {
+
+    class htmlcms {
 
 	private $html_path = 'data/html/'; //静态页面目录
 	private $key; //生成的HTML静态页面对应的KEY值
